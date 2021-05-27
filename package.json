@@ -1,0 +1,15 @@
+{
+  "name": "neonPro",
+  "version": "v0.1 Alpha",
+  "description": "A Professional Bot, But it's FREE",
+  "main": "src/index",
+  "repository": "https://github.com/ThunderCoding/neonPro",
+  "author": "ThunderDesigns",
+  "license": "MIT",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "discord.js": "^12.5.3",
+    "path": "^0.12.7",
+    "util": "^0.12.3"
+  }
+}
